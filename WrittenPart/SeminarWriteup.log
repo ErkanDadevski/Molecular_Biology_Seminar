@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.12.17)  6 JAN 2026 05:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.12.17)  7 JAN 2026 06:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -376,7 +376,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  (SeminarWriteup.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 1.
-)
+ [1
+
+{C:/Users/Ed/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
 \tf@toc=\write3
 \openout3 = `SeminarWriteup.toc'.
 
@@ -390,16 +392,62 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 
-LaTeX Warning: Citation `impact00' on page 1 undefined on input line 70.
+LaTeX Warning: Citation `impact00' on page 2 undefined on input line 70.
 
-[1
 
-{C:/Users/Ed/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 84--86
+Underfull \hbox (badness 10000) in paragraph at lines 70--74
 
  []
 
-[3] [4] (SeminarWriteup.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--74
+
+ []
+
+[2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--114
+
+ []
+
+[6]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7] [8] [9] [10] (SeminarWriteup.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -410,22 +458,30 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 5631 strings out of 474486
- 98226 string characters out of 5745170
- 1935542 words of memory out of 5000000
- 27849 multiletter control sequences out of 15000+600000
- 564442 words of font info for 57 fonts, out of 8000000 for 9000
+ 5652 strings out of 474486
+ 98604 string characters out of 5745170
+ 1941542 words of memory out of 5000000
+ 27868 multiletter control sequences out of 15000+600000
+ 565387 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,11n,79p,1042b,280s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,11n,79p,932b,336s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Ed/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmb
 x10.pfb><C:/Users/Ed/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmr10.pfb><C:/Users/Ed/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmr12.pfb><C:/Users/Ed/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmr17.pfb><C:/Users/Ed/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmss12.pfb>
-Output written on SeminarWriteup.pdf (4 pages, 80063 bytes).
+cm/cmex10.pfb><C:/Users/Ed/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb><C:/Users/Ed/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmmi8.pfb><C:/Users/Ed/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr10.pfb><C:/Users/Ed/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Ed/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Ed/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Ed/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Ed/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Ed/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Ed/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Ed
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on SeminarWriteup.pdf (10 pages, 187004 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
+ 100 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
