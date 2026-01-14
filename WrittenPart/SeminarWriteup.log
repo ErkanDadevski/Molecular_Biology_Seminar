@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.12.17)  14 JAN 2026 01:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  14 JAN 2026 04:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,9 +6,9 @@ entering extended mode
 (SeminarWriteup.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+(E:\New folder\tex/latex/base\article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+(E:\New folder\tex/latex/base\size11.clo
 File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count187
@@ -23,22 +23,22 @@ File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+(E:\New folder\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
 )
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(E:\New folder\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(E:\New folder\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(E:\New folder\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(E:\New folder\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count195
@@ -54,26 +54,28 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks20
 
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(E:\New folder\tex/latex/geometry\geometry.cfg))
+(E:\New folder\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(E:\New folder\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+(E:\New folder\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+(E:\New folder\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+
+(E:\New folder\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen149
 \Gin@req@width=\dimen150
-) (C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+)
+(E:\New folder\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen151
 \lightrulewidth=\dimen152
@@ -93,7 +95,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count267
 \@thisrulewidth=\dimen163
 )
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+(E:\New folder\tex/latex/tools\array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen164
 \ar@mcellbox=\box51
@@ -103,7 +105,7 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \backup@length=\skip51
 \ar@cellbox=\box52
 )
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/paralist\paralist.sty
+(E:\New folder\tex/latex/paralist\paralist.sty
 Package: paralist 2017/01/22 v2.7 Extended list environments
 \pltopsep=\skip52
 \plpartopsep=\skip53
@@ -111,19 +113,19 @@ Package: paralist 2017/01/22 v2.7 Extended list environments
 \plparsep=\skip55
 \pl@lab=\toks22
 )
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+(E:\New folder\tex/latex/tools\verbatim.sty
 Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks23
 \verbatim@line=\toks24
 \verbatim@in@stream=\read2
 )
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+(E:\New folder\tex/latex/subfig\subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+(E:\New folder\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+(E:\New folder\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen166
 \captionmargin=\dimen167
@@ -152,15 +154,15 @@ Package caption Info: Standard document class detected.
 \sf@top=\skip59
 \sf@bottom=\skip60
 )
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(E:\New folder\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
 
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+(E:\New folder\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
 
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+(E:\New folder\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
 Package xcolor Info: Model `RGB' extended on input line 1366.
@@ -171,47 +173,41 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 )
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+(E:\New folder\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 )
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+(E:\New folder\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+(E:\New folder\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip61
 \multirow@cntb=\count277
 \multirow@dima=\skip62
 \bigstrutjot=\dimen175
 )
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+(E:\New folder\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip63
 \bibsep=\skip64
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count278
 )
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
-Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
-
+(E:\New folder\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and foote
+rs
 \f@nch@headwidth=\skip65
-\f@nch@offset@elh=\skip66
-\f@nch@offset@erh=\skip67
-\f@nch@offset@olh=\skip68
-\f@nch@offset@orh=\skip69
-\f@nch@offset@elf=\skip70
-\f@nch@offset@erf=\skip71
-\f@nch@offset@olf=\skip72
-\f@nch@offset@orf=\skip73
-\f@nch@height=\skip74
-\f@nch@footalignment=\skip75
-\f@nch@widthL=\skip76
-\f@nch@widthC=\skip77
-\f@nch@widthR=\skip78
-\@temptokenb=\toks25
+\f@nch@O@elh=\skip66
+\f@nch@O@erh=\skip67
+\f@nch@O@olh=\skip68
+\f@nch@O@orh=\skip69
+\f@nch@O@elf=\skip70
+\f@nch@O@erf=\skip71
+\f@nch@O@olf=\skip72
+\f@nch@O@orf=\skip73
 )
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
+(E:\New folder\tex/latex/sectsty\sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 
@@ -223,61 +219,59 @@ LaTeX Warning: Command \underbar  has changed.
 LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
-) (C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/tocbibind\tocbibind.sty
+) (E:\New folder\tex/latex/tocbibind\tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has section divisions on input line 50.
 
 
 Package tocbibind Note: Using section or other style headings.
 
-) (C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+) (E:\New folder\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 51.
-\cftparskip=\skip79
-\cftbeforetoctitleskip=\skip80
-\cftaftertoctitleskip=\skip81
-\cftbeforepartskip=\skip82
-\cftpartnumwidth=\skip83
-\cftpartindent=\skip84
-\cftbeforesecskip=\skip85
-\cftsecindent=\skip86
-\cftsecnumwidth=\skip87
-\cftbeforesubsecskip=\skip88
-\cftsubsecindent=\skip89
-\cftsubsecnumwidth=\skip90
-\cftbeforesubsubsecskip=\skip91
-\cftsubsubsecindent=\skip92
-\cftsubsubsecnumwidth=\skip93
-\cftbeforeparaskip=\skip94
-\cftparaindent=\skip95
-\cftparanumwidth=\skip96
-\cftbeforesubparaskip=\skip97
-\cftsubparaindent=\skip98
-\cftsubparanumwidth=\skip99
-\cftbeforeloftitleskip=\skip100
-\cftafterloftitleskip=\skip101
-\cftbeforefigskip=\skip102
-\cftfigindent=\skip103
-\cftfignumwidth=\skip104
-\cftbeforelottitleskip=\skip105
-\cftafterlottitleskip=\skip106
-\cftbeforetabskip=\skip107
-\cfttabindent=\skip108
-\cfttabnumwidth=\skip109
-\cftbeforesubfigskip=\skip110
-\cftsubfigindent=\skip111
-\cftsubfignumwidth=\skip112
-\cftbeforesubtabskip=\skip113
-\cftsubtabindent=\skip114
-\cftsubtabnumwidth=\skip115
+\cftparskip=\skip74
+\cftbeforetoctitleskip=\skip75
+\cftaftertoctitleskip=\skip76
+\cftbeforepartskip=\skip77
+\cftpartnumwidth=\skip78
+\cftpartindent=\skip79
+\cftbeforesecskip=\skip80
+\cftsecindent=\skip81
+\cftsecnumwidth=\skip82
+\cftbeforesubsecskip=\skip83
+\cftsubsecindent=\skip84
+\cftsubsecnumwidth=\skip85
+\cftbeforesubsubsecskip=\skip86
+\cftsubsubsecindent=\skip87
+\cftsubsubsecnumwidth=\skip88
+\cftbeforeparaskip=\skip89
+\cftparaindent=\skip90
+\cftparanumwidth=\skip91
+\cftbeforesubparaskip=\skip92
+\cftsubparaindent=\skip93
+\cftsubparanumwidth=\skip94
+\cftbeforeloftitleskip=\skip95
+\cftafterloftitleskip=\skip96
+\cftbeforefigskip=\skip97
+\cftfigindent=\skip98
+\cftfignumwidth=\skip99
+\cftbeforelottitleskip=\skip100
+\cftafterlottitleskip=\skip101
+\cftbeforetabskip=\skip102
+\cfttabindent=\skip103
+\cfttabnumwidth=\skip104
+\cftbeforesubfigskip=\skip105
+\cftsubfigindent=\skip106
+\cftsubfignumwidth=\skip107
+\cftbeforesubtabskip=\skip108
+\cftsubtabindent=\skip109
+\cftsubtabnumwidth=\skip110
 )
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex
-.def
+(E:\New folder\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count279
 \l__pdf_internal_box=\box53
-)
-No file SeminarWriteup.aux.
+) (SeminarWriteup.aux)
 \openout1 = `SeminarWriteup.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
@@ -294,6 +288,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
 LaTeX Font Info:    ... okay on input line 64.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
 LaTeX Font Info:    ... okay on input line 64.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -328,44 +323,41 @@ LaTeX Font Info:    ... okay on input line 64.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+(E:\New folder\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count280
 \scratchdimen=\dimen176
 \scratchbox=\box54
 \nofMPsegments=\count281
 \nofMParguments=\count282
-\everyMPshowfont=\toks26
+\everyMPshowfont=\toks25
 \MPscratchCnt=\count283
 \MPscratchDim=\dimen177
 \MPnumerator=\count284
 \makeMPintoPDFobject=\count285
-\everyMPtoPDFconversion=\toks27
-)
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base
-.sty
+\everyMPtoPDFconversion=\toks26
+) (E:\New folder\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+(E:\New folder\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+)
+(E:\New folder\tex/latex/grfext\grfext.sty
 Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
 
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekey
-s.sty
+(E:\New folder\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ))
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(E:\New folder\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+(E:\New folder\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+(E:\New folder\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.st
-y
+(E:\New folder\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -379,7 +371,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
 
-(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+(E:\New folder\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
@@ -393,33 +385,33 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 65.
  [1
 
-{C:/Users/Ed/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-No file SeminarWriteup.toc.
+{C:/Users/Aryan Kadiya/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Semi
+narWriteup.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 1.
+)
 \tf@toc=\write3
 \openout3 = `SeminarWriteup.toc'.
 
-No file SeminarWriteup.lof.
-\tf@lof=\write4
-\openout4 = `SeminarWriteup.lof'.
+ [2]
 
-
-Package natbib Warning: Citation `hu2024global' on page 2 undefined on input li
+Package natbib Warning: Citation `hu2024global' on page 3 undefined on input li
 ne 73.
 
 
-Package natbib Warning: Citation `impact00' on page 2 undefined on input line 7
+Package natbib Warning: Citation `impact00' on page 3 undefined on input line 7
 3.
 
 
-Package natbib Warning: Citation `su2018computational' on page 2 undefined on i
+Package natbib Warning: Citation `su2018computational' on page 3 undefined on i
 nput line 74.
 
 
-Package natbib Warning: Citation `henze1995pbp4' on page 2 undefined on input l
+Package natbib Warning: Citation `henze1995pbp4' on page 3 undefined on input l
 ine 74.
 
 
-Package natbib Warning: Citation `Mowbray_2025' on page 2 undefined on input li
+Package natbib Warning: Citation `Mowbray_2025' on page 3 undefined on input li
 ne 75.
 
 
@@ -432,7 +424,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--77
 
  []
 
-[2]
 
 Package natbib Warning: Citation `angermueller2016deep' on page 3 undefined on 
 input line 79.
@@ -441,39 +432,38 @@ input line 79.
 Package natbib Warning: Citation `zou2019primer' on page 3 undefined on input l
 ine 79.
 
+[3]
 
-Package natbib Warning: Citation `yang2020machine' on page 3 undefined on input
+Package natbib Warning: Citation `yang2020machine' on page 4 undefined on input
  line 82.
 
 
-Package natbib Warning: Citation `vaswani2023attentionneed' on page 3 undefined
+Package natbib Warning: Citation `vaswani2023attentionneed' on page 4 undefined
  on input line 83.
 
 
-Package natbib Warning: Citation `hochreiter1997long' on page 3 undefined on in
+Package natbib Warning: Citation `hochreiter1997long' on page 4 undefined on in
 put line 83.
 
 
-Package natbib Warning: Citation `vaswani2023attentionneed' on page 3 undefined
+Package natbib Warning: Citation `vaswani2023attentionneed' on page 4 undefined
  on input line 88.
 
 
-Package natbib Warning: Citation `saureuspbp4' on page 3 undefined on input lin
+Package natbib Warning: Citation `saureuspbp4' on page 4 undefined on input lin
 e 91.
 
 
-Package natbib Warning: Citation `vaswani2023attentionneed' on page 3 undefined
+Package natbib Warning: Citation `vaswani2023attentionneed' on page 4 undefined
  on input line 91.
 
 
-Package natbib Warning: Citation `devlin2018bert' on page 3 undefined on input 
+Package natbib Warning: Citation `devlin2018bert' on page 4 undefined on input 
 line 91.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 91.
-[3]
+[4]
 
-Package natbib Warning: Citation `weiss2021' on page 4 undefined on input line 
+Package natbib Warning: Citation `weiss2021' on page 5 undefined on input line 
 95.
 
 
@@ -482,10 +472,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--96
  []
 
 
-Package natbib Warning: Citation `ji2021dnabert' on page 4 undefined on input l
+Package natbib Warning: Citation `ji2021dnabert' on page 5 undefined on input l
 ine 98.
 
-[4]
 
 Package natbib Warning: Citation `zhou2023dnabert2' on page 5 undefined on inpu
 t line 100.
@@ -500,7 +489,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--110
 
  []
 
-
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 112--114
 
  []
@@ -510,40 +499,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--117
 
  []
 
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 118--124
-
- []
-
-
-LaTeX Warning: Reference `tab:dnabert2-val-test' on page 7 undefined on input l
-ine 128.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--188
-
- []
-
 [7]
 
-LaTeX Warning: Reference `tab:test_cnn' on page 8 undefined on input line 189.
+LaTeX Warning: Reference `tab:dnabert2-val-test' on page 8 undefined on input l
+ine 127.
 
 
-LaTeX Warning: Reference `tab:comparison' on page 8 undefined on input line 208
-.
+Underfull \hbox (badness 10000) in paragraph at lines 127--187
+
+ []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[8]
-
-LaTeX Warning: Reference `tab:efficiency' on page 9 undefined on input line 246
-.
+LaTeX Warning: Reference `tab:test_cnn' on page 8 undefined on input line 188.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9]
+
+LaTeX Warning: Reference `tab:comparison' on page 8 undefined on input line 207
+.
+
+[8] [9]
+
+LaTeX Warning: Reference `tab:efficiency' on page 10 undefined on input line 24
+5.
+
 No file SeminarWriteup.bbl.
 
 Package natbib Warning: There were undefined citations.
@@ -562,28 +542,24 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 6128 strings out of 474486
- 104777 string characters out of 5745170
- 1940542 words of memory out of 5000000
- 28341 multiletter control sequences out of 15000+600000
+ 5968 strings out of 474486
+ 98260 string characters out of 5758236
+ 1941542 words of memory out of 5000000
+ 28178 multiletter control sequences out of 15000+600000
  565387 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,79p,1612b,336s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Ed/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmb
-x10.pfb><C:/Users/Ed/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmex10.pfb><C:/Users/Ed/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmmi10.pfb><C:/Users/Ed/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmmi8.pfb><C:/Users/Ed/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmr10.pfb><C:/Users/Ed/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Ed/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Ed/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Ed/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Ed/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Ed/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Ed/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Ed
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on SeminarWriteup.pdf (10 pages, 190827 bytes).
+<E:/New folder/fonts/type1/public/amsfonts/cm/cmbx10.pfb><E:/New folder/fonts
+/type1/public/amsfonts/cm/cmex10.pfb><E:/New folder/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb><E:/New folder/fonts/type1/public/amsfonts/cm/cmmi8.pfb><E:/New 
+folder/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/New folder/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb><E:/New folder/fonts/type1/public/amsfonts/cm/cmr17.pf
+b><E:/New folder/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/New folder/fonts/t
+ype1/public/amsfonts/cm/cmss10.pfb><E:/New folder/fonts/type1/public/amsfonts/c
+m/cmss12.pfb><E:/New folder/fonts/type1/public/amsfonts/cm/cmsy10.pfb><E:/New f
+older/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:/New folder/fonts/type1/publi
+c/amsfonts/cm/cmti10.pfb>
+Output written on SeminarWriteup.pdf (10 pages, 191053 bytes).
 PDF statistics:
  100 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

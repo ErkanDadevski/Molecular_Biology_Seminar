@@ -113,9 +113,9 @@ The utilized base model is the zhihan1996/DNABERT-2-117M, a model pre-trained on
 The model was fine-tuned for 8 epochs using an effective batch size of 16 and a learning rate of $2 \times 10^{-5}$. To ensure training stability and memory efficiency, the AdamW optimizer was used with a weight decay of 0.01, while employing Mixed Precision (FP16), gradient checkpointing and gradient clipping with a maximum norm of 1.0.
  \subsubsection{CNN}
 For comparison purposes a simple CNN was also deployed. Consisting of an Embedding layer, a convolution (Conv1D) layer with 256 filters and a kernel of size 9, a rectifier (ReLU), a global max pool layer, a dropout of 0.1 and a linear classifier layer. The same weighted loss function as used in DNABERT-2 was used here as well.\newline\newline
-This model was trained for a maximum 10 epochs with a learning rate of $1 \times 10^{-3}$, an AdamW optimizer with a 0.001 weight decay and an early stopping with a 3-epoch patience, based on validation loss and a batch size of 32.
+This model was trained for a maximum 10 epochs with a learning rate of $1 \times 10^{-3}$, an AdamW optimizer with a 0.01 weight decay and an early stopping with a 3-epoch patience, based on validation loss and a batch size of 32.
 \subsection{Overfitting Mitigation Strategies}
-Since the dataset only contained 800 samples, multiple techniques were implemented to prevent overfitting. Both models apply a 0.1 dropout rate before the classification layer. The models apply weight decay with 0.01 L2 regularization for DNABERT-2 and 0.001 for CNN.\newline
+Since the dataset only contained 800 samples, multiple techniques were implemented to prevent overfitting. Both models apply a 0.1 dropout rate before the classification layer. The models apply weight decay with 0.01 L2 regularization for DNABERT-2 and 0.01 for CNN.\newline
 To address the imbalance of the training samples, the classes are assigned weights inversely proportional to their frequency in the data. 
 %To augment the limited training data random substitution, for 1\% of nucleotides, and reverse complement generation with a 50\% probability during training was employed. This is supposed to simulate natural genetic variation and help the model generalize beyond the training distribution. 
 While advanced regularization techniques such as data augmentation or gradient norm clipping could further improve robustness, these strategies are not implemented in the current training pipeline.
@@ -169,15 +169,15 @@ In Table \ref{tab:dnabert2-val-test} the results for the metrics discussed earli
 \hline
 \textbf{Dataset} & \textbf{Class} & \textbf{Precision} & \textbf{Recall} & \textbf{F1-Score} & \textbf{Support} \\
 \hline
-\textbf{Validation} & Susceptible & 0.69 & 0.75 & 0.72 & 36 \\
- & Resistant & 0.93 & 0.90 & 0.91 & 124 \\
+\textbf{Validation} & Susceptible & 0.80 & 0.56 & 0.66 & 36 \\
+ & Resistant & 0.88 & 0.96 & 0.92 & 124 \\
  & \textbf{Accuracy} & & & \textbf{0.87} & 160 \\
- & \textbf{Macro Avg} & 0.81 & 0.83 & 0.82 & 160 \\
- & \textbf{Weighted Avg} & 0.87 & 0.87 & 0.87 & 160 \\
+ & \textbf{Macro Avg} & 0.84 & 0.76 & 0.79 & 160 \\
+ & \textbf{Weighted Avg} & 0.86 & 0.87 & 0.86 & 160 \\
 \hline
 \textbf{Test} & Susceptible & 0.94 & 0.81 & 0.87 & 21 \\
  & Resistant & 0.95 & 0.99 & 0.97 & 78 \\
- & \textbf{Accuracy} & & & \textbf{0.89} & 99 \\
+ & \textbf{Accuracy} & & & \textbf{0.95} & 99 \\
  & \textbf{Macro Avg} & 0.95 & 0.90 & 0.92 & 99 \\
  & \textbf{Weighted Avg} & 0.95 & 0.95 & 0.95 & 99 \\
 \hline
@@ -213,9 +213,9 @@ In Table \ref{tab:comparison} the results of the important metrics for all the d
         \toprule
         \textbf{Metric} & \textbf{DNABERT-2} & \textbf{CNN Baseline} \\
         \midrule
-        Accuracy & \textbf{0.8900} & 0.9192 \\
+        Accuracy & \textbf{0.95} & 0.9192 \\
         ROC AUC  & \textbf{0.9887}  & 0.9869 \\
-        F1-Score (Resistant) & \textbf{0.99} & 0.95 \\
+        F1-Score (Resistant) & \textbf{0.97} & 0.95 \\
         F1-Score (Susceptible) & \textbf{0.87} & 0.82 \\
         Weighted F1 & \textbf{0.95} & 0.92 \\
         \bottomrule
@@ -253,8 +253,8 @@ These efficiency disparities have critical implications for clinical deployment.
         \toprule
         \textbf{Metric} & \textbf{CNN Baseline} & \textbf{DNABERT-2} \\
         \midrule
-        Parameter Count & 1.8 M & 117 M \\
-        Memory Requirement & 1.2 GB & 5.8 GB \\
+        Parameter Count & 1.64 M & 117 M \\
+        Memory Requirement & 1.06 GB & 1.29 GB \\
         Training Time & 11 seconds & 750 seconds \\
         Inference Speed & 3.94 ms/seq & 34.14 ms/seq \\
         \bottomrule
