@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.12.17)  13 JAN 2026 19:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.12.17)  14 JAN 2026 01:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -174,6 +174,10 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 (C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 )
+(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
 (C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip61
@@ -181,23 +185,30 @@ Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@dima=\skip62
 \bigstrutjot=\dimen175
 )
+(C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip63
+\bibsep=\skip64
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count278
+)
 (C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip63
-\f@nch@offset@elh=\skip64
-\f@nch@offset@erh=\skip65
-\f@nch@offset@olh=\skip66
-\f@nch@offset@orh=\skip67
-\f@nch@offset@elf=\skip68
-\f@nch@offset@erf=\skip69
-\f@nch@offset@olf=\skip70
-\f@nch@offset@orf=\skip71
-\f@nch@height=\skip72
-\f@nch@footalignment=\skip73
-\f@nch@widthL=\skip74
-\f@nch@widthC=\skip75
-\f@nch@widthR=\skip76
+\f@nch@headwidth=\skip65
+\f@nch@offset@elh=\skip66
+\f@nch@offset@erh=\skip67
+\f@nch@offset@olh=\skip68
+\f@nch@offset@orh=\skip69
+\f@nch@offset@elf=\skip70
+\f@nch@offset@erf=\skip71
+\f@nch@offset@olf=\skip72
+\f@nch@offset@orf=\skip73
+\f@nch@height=\skip74
+\f@nch@footalignment=\skip75
+\f@nch@widthL=\skip76
+\f@nch@widthC=\skip77
+\f@nch@widthR=\skip78
 \@temptokenb=\toks25
 )
 (C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
@@ -222,67 +233,67 @@ Package tocbibind Note: Using section or other style headings.
 ) (C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 51.
-\cftparskip=\skip77
-\cftbeforetoctitleskip=\skip78
-\cftaftertoctitleskip=\skip79
-\cftbeforepartskip=\skip80
-\cftpartnumwidth=\skip81
-\cftpartindent=\skip82
-\cftbeforesecskip=\skip83
-\cftsecindent=\skip84
-\cftsecnumwidth=\skip85
-\cftbeforesubsecskip=\skip86
-\cftsubsecindent=\skip87
-\cftsubsecnumwidth=\skip88
-\cftbeforesubsubsecskip=\skip89
-\cftsubsubsecindent=\skip90
-\cftsubsubsecnumwidth=\skip91
-\cftbeforeparaskip=\skip92
-\cftparaindent=\skip93
-\cftparanumwidth=\skip94
-\cftbeforesubparaskip=\skip95
-\cftsubparaindent=\skip96
-\cftsubparanumwidth=\skip97
-\cftbeforeloftitleskip=\skip98
-\cftafterloftitleskip=\skip99
-\cftbeforefigskip=\skip100
-\cftfigindent=\skip101
-\cftfignumwidth=\skip102
-\cftbeforelottitleskip=\skip103
-\cftafterlottitleskip=\skip104
-\cftbeforetabskip=\skip105
-\cfttabindent=\skip106
-\cfttabnumwidth=\skip107
-\cftbeforesubfigskip=\skip108
-\cftsubfigindent=\skip109
-\cftsubfignumwidth=\skip110
-\cftbeforesubtabskip=\skip111
-\cftsubtabindent=\skip112
-\cftsubtabnumwidth=\skip113
+\cftparskip=\skip79
+\cftbeforetoctitleskip=\skip80
+\cftaftertoctitleskip=\skip81
+\cftbeforepartskip=\skip82
+\cftpartnumwidth=\skip83
+\cftpartindent=\skip84
+\cftbeforesecskip=\skip85
+\cftsecindent=\skip86
+\cftsecnumwidth=\skip87
+\cftbeforesubsecskip=\skip88
+\cftsubsecindent=\skip89
+\cftsubsecnumwidth=\skip90
+\cftbeforesubsubsecskip=\skip91
+\cftsubsubsecindent=\skip92
+\cftsubsubsecnumwidth=\skip93
+\cftbeforeparaskip=\skip94
+\cftparaindent=\skip95
+\cftparanumwidth=\skip96
+\cftbeforesubparaskip=\skip97
+\cftsubparaindent=\skip98
+\cftsubparanumwidth=\skip99
+\cftbeforeloftitleskip=\skip100
+\cftafterloftitleskip=\skip101
+\cftbeforefigskip=\skip102
+\cftfigindent=\skip103
+\cftfignumwidth=\skip104
+\cftbeforelottitleskip=\skip105
+\cftafterlottitleskip=\skip106
+\cftbeforetabskip=\skip107
+\cfttabindent=\skip108
+\cfttabnumwidth=\skip109
+\cftbeforesubfigskip=\skip110
+\cftsubfigindent=\skip111
+\cftsubfignumwidth=\skip112
+\cftbeforesubtabskip=\skip113
+\cftsubtabindent=\skip114
+\cftsubtabnumwidth=\skip115
 )
 (C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex
 .def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count278
+\l__color_backend_stack_int=\count279
 \l__pdf_internal_box=\box53
-) (SeminarWriteup.aux)
+)
+No file SeminarWriteup.aux.
 \openout1 = `SeminarWriteup.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -319,16 +330,16 @@ LaTeX Font Info:    ... okay on input line 63.
 
 (C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count279
+\scratchcounter=\count280
 \scratchdimen=\dimen176
 \scratchbox=\box54
-\nofMPsegments=\count280
-\nofMParguments=\count281
+\nofMPsegments=\count281
+\nofMParguments=\count282
 \everyMPshowfont=\toks26
-\MPscratchCnt=\count282
+\MPscratchCnt=\count283
 \MPscratchDim=\dimen177
-\MPnumerator=\count283
-\makeMPintoPDFobject=\count284
+\MPnumerator=\count284
+\makeMPintoPDFobject=\count285
 \everyMPtoPDFconversion=\toks27
 )
 (C:\Users\Ed\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base
@@ -375,88 +386,169 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 64.
+(Font)              <12> on input line 65.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 64.
+(Font)              <8> on input line 65.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 64.
+(Font)              <6> on input line 65.
  [1
 
 {C:/Users/Ed/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(SeminarWriteup.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 1.
-)
+No file SeminarWriteup.toc.
 \tf@toc=\write3
 \openout3 = `SeminarWriteup.toc'.
 
- (SeminarWriteup.lof)
+No file SeminarWriteup.lof.
 \tf@lof=\write4
 \openout4 = `SeminarWriteup.lof'.
 
- [2]
 
-LaTeX Warning: Citation `impact00' on page 3 undefined on input line 72.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--76
-
- []
+Package natbib Warning: Citation `hu2024global' on page 2 undefined on input li
+ne 73.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--76
-
- []
-
-[3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 93--95
-
- []
+Package natbib Warning: Citation `impact00' on page 2 undefined on input line 7
+3.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--101
+Package natbib Warning: Citation `su2018computational' on page 2 undefined on i
+nput line 74.
 
- []
 
-[5] [6]
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
+Package natbib Warning: Citation `henze1995pbp4' on page 2 undefined on input l
+ine 74.
+
+
+Package natbib Warning: Citation `Mowbray_2025' on page 2 undefined on input li
+ne 75.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--113
+Underfull \hbox (badness 10000) in paragraph at lines 73--77
+
+ []
+
+[2]
+
+Package natbib Warning: Citation `angermueller2016deep' on page 3 undefined on 
+input line 79.
+
+
+Package natbib Warning: Citation `zou2019primer' on page 3 undefined on input l
+ine 79.
+
+
+Package natbib Warning: Citation `yang2020machine' on page 3 undefined on input
+ line 82.
+
+
+Package natbib Warning: Citation `vaswani2023attentionneed' on page 3 undefined
+ on input line 83.
+
+
+Package natbib Warning: Citation `hochreiter1997long' on page 3 undefined on in
+put line 83.
+
+
+Package natbib Warning: Citation `vaswani2023attentionneed' on page 3 undefined
+ on input line 88.
+
+
+Package natbib Warning: Citation `saureuspbp4' on page 3 undefined on input lin
+e 91.
+
+
+Package natbib Warning: Citation `vaswani2023attentionneed' on page 3 undefined
+ on input line 91.
+
+
+Package natbib Warning: Citation `devlin2018bert' on page 3 undefined on input 
+line 91.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 91.
+[3]
+
+Package natbib Warning: Citation `weiss2021' on page 4 undefined on input line 
+95.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--116
+Package natbib Warning: Citation `ji2021dnabert' on page 4 undefined on input l
+ine 98.
+
+[4]
+
+Package natbib Warning: Citation `zhou2023dnabert2' on page 5 undefined on inpu
+t line 100.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--117
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 118--124
+
+ []
+
+
+LaTeX Warning: Reference `tab:dnabert2-val-test' on page 7 undefined on input l
+ine 128.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--188
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 117--123
 
- []
+LaTeX Warning: Reference `tab:test_cnn' on page 8 undefined on input line 189.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--187
+LaTeX Warning: Reference `tab:comparison' on page 8 undefined on input line 208
+.
 
- []
-
-[8]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[9]
-Overfull \hbox (3.06831pt too wide) in paragraph at lines 245--263
-\OT1/cmr/m/n/10.95 These ef-fi-ciency deis-par-i-ties have crit-i-cal im-pli-ca
--tion sfor clin-i-cal de-ploy-ment. In resource-
- []
+[8]
+
+LaTeX Warning: Reference `tab:efficiency' on page 9 undefined on input line 246
+.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10] [11] (SeminarWriteup.aux)
+[9]
+No file SeminarWriteup.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+[10] (SeminarWriteup.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -465,15 +557,18 @@ L3 programming layer <2024-01-04>
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 5709 strings out of 474486
- 99613 string characters out of 5745170
- 1941542 words of memory out of 5000000
- 27924 multiletter control sequences out of 15000+600000
+ 6128 strings out of 474486
+ 104777 string characters out of 5745170
+ 1940542 words of memory out of 5000000
+ 28341 multiletter control sequences out of 15000+600000
  565387 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,79p,1598b,336s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,12n,79p,1612b,336s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Ed/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmb
 x10.pfb><C:/Users/Ed/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmex10.pfb><C:/Users/Ed/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
@@ -488,9 +583,9 @@ ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Ed/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Ed/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Ed
 /AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on SeminarWriteup.pdf (11 pages, 190103 bytes).
+Output written on SeminarWriteup.pdf (10 pages, 190827 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
+ 100 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

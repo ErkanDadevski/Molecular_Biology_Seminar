@@ -1,5 +1,0 @@
-\contentsline {table}{\numberline {1}{\ignorespaces \textbf {DNABERT-2 Performance on Validation Set.} The model was evaluated on 160 held-out genes using the sliding window and max pooling strategy. \newline \textit {ROC AUC: 0.9404}.}}{8}{}%
-\contentsline {table}{\numberline {2}{\ignorespaces \textbf {DNABERT-2 Performance on Test Set.} Evaluation on 99 samples. The model achieves high sensitivity (Recall 0.94) for the resistant class. \newline \textit {ROC AUC: 0.9771}.}}{8}{}%
-\contentsline {table}{\numberline {3}{\ignorespaces \textbf {CNN Baseline Performance on Test Set.} Evaluation on 99 samples. \newline \textit {ROC AUC: 0.9869}.}}{9}{}%
-\contentsline {table}{\numberline {4}{\ignorespaces \textbf {Model Comparison on Test Set (n=99).} Comparison of the proposed DNABERT-2 model against the CNN baseline. Best values are highlighted in bold.}}{9}{}%
-\contentsline {table}{\numberline {5}{\ignorespaces \textbf {Computational Efficiency Comparison.} Metrics were recorded on a single NVIDIA A100 GPU. The CNN baseline offers significant reductions in memory usage and inference latency.}}{10}{}%
