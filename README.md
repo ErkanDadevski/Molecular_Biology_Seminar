@@ -16,22 +16,16 @@ Antibiotic resistance poses a significant global health challenge. This project 
 
 ```
 ├── Code/
-│   └── DNABERT2.ipynb          # Main Jupyter notebook with complete implementation
+│   └── DNABERT2.ipynb              # Main Jupyter notebook with complete implementation
 ├── Presentation/
-│   └── PLACEHOLDER             # Placeholder for presentation materials
+│   └── presentation_draft_1.pptx   # Presentation slides
 ├── WrittenPart/
-│   ├── SeminarWriteup.tex      # LaTeX source for seminar writeup
-│   ├── SeminarWriteup.pdf      # Compiled seminar writeup
-│   ├── SeminarWriteup.aux      # LaTeX auxiliary files
-│   ├── SeminarWriteup.log
-│   ├── SeminarWriteup.lof
-│   ├── SeminarWriteup.lot
-│   ├── SeminarWriteup.synctex.gz
-│   ├── SeminarWriteup.toc
-│   └── lit/                    # Literature references
-│       ├── refs.bib            # Bibliography file
-│       └── *.pdf               # Research papers and references
-└── README.md                   # This file
+│   ├── SeminarWriteup.tex          # LaTeX source for seminar writeup
+│   ├── SeminarWriteup.pdf          # Compiled seminar writeup
+│   ├── refs.bib                    # Bibliography file
+│   └── lit/                        # Literature references
+│       └── *.pdf                   # Research papers and references
+└── README.md                       # This file
 ```
 
 ## Installation
@@ -124,7 +118,7 @@ The `WrittenPart/lit/` directory contains relevant research papers and reference
 - Deep learning applications in bioinformatics
 - Staphylococcus aureus penicillin-binding proteins
 
-See `WrittenPart/lit/refs.bib` for the complete bibliography.
+See `WrittenPart/refs.bib` for the complete bibliography.
 
 ## Contributing
 

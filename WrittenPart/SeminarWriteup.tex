@@ -244,7 +244,7 @@ While the CNN baseline remains computationally efficient, DNABERT-2 demonstrated
 
 From a computational perspective, the architectural complexity of the Transformer model incurs a significant cost. As summarized in Table \ref{tab:efficiency}, the CNN baseline demonstrates superior efficiency across all resource metrics. Notably, the CNN requires approximately $71\times$ fewer parameters and significantly less GPU memory than DNABERT-2.
 \newline 
-These efficiency disparities have critical implications for clinical deployment. In resource-constrained environments, the CNN's low memory footprint might be preferred. Given the Transformer's superior clinical sensitivity, however, DNABERT-2 offers a signifcant advantage for precision medicine, where diagnostic accuracy is paramount.
+These efficiency disparities have critical implications for clinical deployment. In resource-constrained environments, the CNN's low memory footprint might be preferred. Given the Transformer's superior clinical sensitivity, however, DNABERT-2 offers a significant advantage for precision medicine, where diagnostic accuracy is paramount.
 \begin{table}[h]
     \centering
     \caption{\textbf{Computational Efficiency Comparison.} Metrics were recorded on a single NVIDIA A100 GPU. The CNN baseline offers significant reductions in memory usage and inference latency.}
@@ -284,7 +284,6 @@ These efficiency disparities have critical implications for clinical deployment.
 %\end{tabular}
 %\end{table}
 
-These efficiency disparities have critical implications for clinical deployment. In resource-constrained environments, such as hospital laboratories lacking high-end GPU clusters, the CNN's low memory footprint and rapid inference capability provide a tangible advantage for real-time diagnostic decision-making. However, DNABERT-2 may still offer superior potential for generalization if applied to multi-gene tasks where long-range interactions become more prevalent.
 \section{AI Tool Acknowledgment}
 Literature research was completed with the assistance of Scholar Labs. The presentation of results was aided by Gemini 3 and ChatGPT.
 %\color{blue}{anything more like text assistance, drafting, maybe structure of report? also code? should we write ai helped code?}
